@@ -1,0 +1,1 @@
+This is an API I built using flask and postman. It gets data from a database I got online. I just used this to practice making an API. It was somewhat challenging, but I did it! I've added a link to the API docs.
